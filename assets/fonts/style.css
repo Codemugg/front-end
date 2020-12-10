@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'GothamBold';
+   font-display: swap;
+   src: url('GothamBold/font.ttf');
+}
+@font-face {
+   font-family: 'GothamBook';
+   font-display: swap;
+   src: url('GothamBook/font.ttf');
+}
+@font-face {
+   font-family: 'GothamLight';
+   font-display: swap;
+   src: url('GothamLight/font.ttf');
+}
+@font-face {
+   font-family: 'GothamMedium';
+   font-display: swap;
+   src: url('GothamMedium/font.ttf');
+}
