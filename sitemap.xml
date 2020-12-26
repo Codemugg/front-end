@@ -24,15 +24,15 @@
 		<loc>https://codemugg.live/privacy-policy.html</loc>
 	</url>
 	<url>
-		<loc>https://codemugg.live/terms-and-conditions.html</loc>
-	</url>
-	<url>
-		<loc>https://codemugg.live/sign-up.html</loc>
-	</url>
-	<url>
 		<loc>https://codemugg.live/login.html</loc>
 	</url>
 	<url>
 		<loc>https://codemugg.live/bylaws.html</loc>
+	</url>
+	<url>
+		<loc>https://codemugg.live/register.html</loc>
+	</url>
+	<url>
+		<loc>https://codemugg.live/terms-of-service.html</loc>
 	</url>
 </urlset>
