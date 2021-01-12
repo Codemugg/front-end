@@ -1,5 +1,5 @@
 # website
-Official website of Codemugg Inc
+Official website's repository of Codemugg Inc
 
 Codemugg is a non-profit organization aiming and working to teach how to code without a price tag.
 
